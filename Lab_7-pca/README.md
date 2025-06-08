@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter Notebook for Lab 7 of the INF 554 course. This lab focuses on understanding and implementing **Principal Component Analysis (PCA)**, a fundamental and widely-used unsupervised learning technique for dimensionality reduction.
 
-## Lab Overview 📊
+## Lab Overview 
 
 Principal Component Analysis is a powerful method used to reduce the number of variables in a dataset while preserving as much of the original information as possible. It achieves this by transforming the data into a new set of orthogonal (uncorrelated) variables called **principal components**. The first principal component accounts for the largest possible variance in the data, the second component accounts for the second largest, and so on.
 
@@ -17,7 +17,7 @@ This lab provides a from-scratch implementation of PCA, covering the necessary l
 -   **Explained Variance:** A measure of how much information (variance) from the original dataset is captured by each principal component.
 -   **Data Projection:** Transforming the original data into the new feature space defined by the principal components.
 
-## Tasks Performed in the Notebook 💻
+## Tasks Performed in the Notebook 
 
 The `Lab7_solution.ipynb` notebook provides a complete implementation of:
 
@@ -29,7 +29,7 @@ The `Lab7_solution.ipynb` notebook provides a complete implementation of:
 6.  **Visualization:** Plotting the transformed data to visualize the separation of different digit classes in 2D.
 7.  **Explained Variance Analysis:** Plotting the cumulative explained variance to determine the number of components required to retain a desired percentage of information.
 
-## How to Use 🚀
+## How to Use 
 
 To run the code in this lab, you will need a Python environment with the following libraries installed:
 
