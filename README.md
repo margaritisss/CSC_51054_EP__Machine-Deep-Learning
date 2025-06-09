@@ -15,7 +15,7 @@ The primary technologies used across these projects include:
 
 | # | Topic | Folder Link | Description |
 | :-- | :--- | :--- | :--- |
-| 1 | **Intro to the ML Pipeline** | [`Lab_1-Intro_to_ML_Pipeline/`](./Lab_1-Intro_to_ML_Pipeline/) | An introduction to the machine learning pipeline using Ordinary Least Squares (OLS) regression to predict tree growth. |
+| 1 | **Intro to the ML Pipeline** | [`Lab_1-ml-pipeline-intro/`](./Lab_1-Intro_to_ML_Pipeline/) | An introduction to the machine learning pipeline using Ordinary Least Squares (OLS) regression to predict tree growth. |
 | 2 | **Regularized Regression** | [`Lab_2-Regularized_Regression/`](./Lab_2-Regularized_Regression/) | Implementation of Ridge (L2) and Lasso (L1) regression to prevent overfitting. Includes hyperparameter tuning. |
 | 3 | **Logistic Regression** | [`Lab_3-Logistic_Regression/`](./Lab_3-Logistic_Regression/) | Building a binary classifier from scratch using logistic regression, optimized with gradient descent. |
 | 4 | **Support Vector Machines** | [`Lab_4-Support_Vector_Machine/`](./Lab_4-Support_Vector_Machine/) | Implementation of a linear Support Vector Machine (SVM) using hinge loss and sub-gradient descent for classification. |
