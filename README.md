@@ -17,7 +17,7 @@ The primary technologies used across these projects include:
 | :-- | :--- | :--- | :--- |
 | 1 | **Intro to the ML Pipeline** | [`Lab_1-ml-pipeline-intro/`](./Lab_1-ml-pipeline-intro/) | An introduction to the machine learning pipeline using Ordinary Least Squares (OLS) regression to predict tree growth. |
 | 2 | **Regularized Regression** | [`Lab_2-Regularized_Regression/`](./Lab_2-Regularized_Regression/) | Implementation of Ridge (L2) and Lasso (L1) regression to prevent overfitting. Includes hyperparameter tuning. |
-| 3 | **Logistic Regression** | [`Lab_3-Logistic_Regression/`](./Lab_3-Logistic_Regression/) | Building a binary classifier from scratch using logistic regression, optimized with gradient descent. |
+| 3 | **Logistic Regression** | [`Lab_3-logistic-regression/`](./Lab_3-logistic-regression/) | Building a binary classifier from scratch using logistic regression, optimized with gradient descent. |
 | 4 | **Support Vector Machines** | [`Lab_4-Support_Vector_Machine/`](./Lab_4-Support_Vector_Machine/) | Implementation of a linear Support Vector Machine (SVM) using hinge loss and sub-gradient descent for classification. |
 | 5 | **Decision Trees & Random Forests** | [`Lab_5-Decision_Tree_and_Random_Forest/`](./Lab_5-Decision_Tree_and_Random_Forest/) | Building a Decision Tree classifier from scratch and extending it to a Random Forest ensemble to improve performance. |
 | 6 | **Neural Networks** | [`Lab_6-Neural_Networks/`](./Lab_6-Neural_Networks/) | A from-scratch implementation of a simple neural network, covering the forward pass, backpropagation, and parameter updates. |
